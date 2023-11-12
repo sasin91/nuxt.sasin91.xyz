@@ -1,0 +1,27 @@
+{
+  "name": "nuxt.sasin91.xyz",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@nuxtjs/i18n": "next",
+    "@nuxtjs/tailwindcss": "^6.9.4",
+    "nuxt": "^3.8.1",
+    "vue": "^3.3.8",
+    "vue-router": "^4.2.5"
+  },
+  "dependencies": {
+    "@heroicons/vue": "^2.0.18",
+    "@nuxt/image": "^1.0.0",
+    "@nuxt/ui": "^2.10.0",
+    "@nuxtjs/cloudinary": "^2.3.4",
+    "sharp": "^0.32.6"
+  }
+}
